@@ -1,0 +1,142 @@
+body{
+    font-family: "PF Din CompPro", Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    line-height: 24px;
+}
+
+.clear {
+    clear: left;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.logo {
+  padding-top: 55px;
+    padding-left: 5px;
+}
+
+.intro {
+    width: 100%;
+    height: 950px;
+
+    line-height: 30px;
+
+    background: url("img/header-background.png") center no-repeat;
+    background-size: cover;
+    color: #ffffff;
+}
+
+.intro h1 {
+    margin-top: 0;
+    padding-top: 355px;
+    padding-left: 0px;
+
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.intro p {
+
+    font-family: "Myriad Pro", sans-serif;
+    font-size: 13px;
+    padding-left: 5px;
+    font-weight: 100;
+    letter-spacing: 0.13px;
+}
+
+.main-content {
+    margin-top: 50px;
+    padding-bottom: 85px;
+}
+
+.main-content-left {
+    width: 570px;
+
+    float: left;
+}
+
+.main-content-left h2,
+.details h2 {
+    font-size: 35px;
+    color: #222626;
+    font-weight: 100;
+}
+
+.main-content-left p,
+.main-content-right p{
+    font-size: 14px;
+    color: #959595;
+}
+
+.main-content-right {
+    padding-left: 600px;
+    margin-top: 0px;
+    padding-top: 65px;
+}
+
+.details h2 {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.details h3 {
+    font-size: 13px;
+
+    font-weight: 600;
+}
+
+.details-1 {
+    font-size: 14px;
+    line-height: 24px;
+    color: #959595;
+    float: left;
+    width: 260px;
+}
+
+.details-2 {
+    font-size: 14px;
+    line-height: 24px;
+    color: #959595;
+    float: left;
+    width: 260px;
+    margin-left: 30px;
+}
+
+.details-3 {
+    font-size: 14px;
+    line-height: 24px;
+    color: #959595;
+    float: left;
+    width: 260px;
+    margin-left: 30px;
+}
+
+.details-4 {
+    font-size: 14px;
+    line-height: 24px;
+    color: #959595;
+    float: left;
+    width: 260px;
+    margin-left: 30px;
+}
+
+.end {
+    margin-top: 160px;
+
+    width: 100%;
+    height: 1000px;
+
+    background-image: url("img/end-background.jpg");
+    background-size: cover;
+    color: #ffffff;
+}
+
+.more-inf{
+    padding-top: 455px;
+}
